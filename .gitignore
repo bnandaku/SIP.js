@@ -10,3 +10,6 @@ test/spec/*.spec.js
 test/spec/api/*.js
 test/spec/core/*.js
 test/support/**/*.js
+.idea/workspace.xml
+*.xml
+*.iml
